@@ -11,7 +11,7 @@ Trap Door is a modular, graphical honeypot designed to capture IP addresses, use
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/inferno5679/Web_honeypot.git
+git clone https://github.com/Frostik777/Capstone-Ids-Honeypot.git
 ```
 
 ### 2. Set Permissions
