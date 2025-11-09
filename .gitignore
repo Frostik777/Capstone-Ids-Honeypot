@@ -1,0 +1,8 @@
+AppData/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
